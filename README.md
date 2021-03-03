@@ -10,3 +10,5 @@ bugra: oldu deneme basarili :)
 ### deneme alt basligi
 
 aferin bugra delirdin ve kendinle konusuyorsun xd
+
+pull denemesi yapacagim basarili olacak mi acaba?
