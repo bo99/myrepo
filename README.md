@@ -27,3 +27,5 @@ z
 x^2 + 2 * x * y + y^2 -> z
 
 # sonuc olarak (x+y)^2 = x^2+2xy+y^2 diyebiliriz :D
+
+z nin karsiligini programda gosterebiliyorum ama oradaki degeri sayfada goremiyorum onu da ogrenirim artik saat gec oldu 
